@@ -1,0 +1,17 @@
+{
+    "name": "mfajar97/eterna-b-4",
+    "description": "Just template",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mfajar97\\EternaB4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mfajar97",
+            "email": "muhammadfadjaar@gmail.com"
+        }
+    ],
+    "require": {}
+}
